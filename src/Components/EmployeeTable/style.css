@@ -1,6 +1,6 @@
 /* Show pointer to indicate column header is clickable */
 thead th span{
-    cursor: pointer;
+    cursor: progress;
 }
 
 /* Following classes allows for table to be scrollable */
@@ -9,6 +9,7 @@ tbody {
     overflow-y: auto;
     overflow-x: hidden;
     max-height: 65vh;
+    box-shadow: 3px 3px 25px #616060;
 }
 
 thead,

@@ -1,7 +1,7 @@
 header {
     background-color: #243380;
-    color: rgb(173, 168, 168);
+    color: rgb(129, 126, 126);
     border-bottom: 5px solid #692027;
     padding: 25px;
-    box-shadow:#243380
+    box-shadow: 3px 3px 25px #888888;
 }
