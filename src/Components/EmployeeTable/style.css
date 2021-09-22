@@ -1,4 +1,4 @@
-/* Show pointer to indicate column header is clickable */
+/* Show progress to indicate column header is clickable */
 thead th span{
     cursor: progress;
 }
