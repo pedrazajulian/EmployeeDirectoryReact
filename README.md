@@ -55,9 +55,11 @@ With this application the employee directory React allows users to look up emplo
   
  ## Screenshots
   
-  ![pic 1](G)
+  ![pic 1](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture%201.JPG)
 
-  ![pic 2](g)
+  ![pic 2](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture%202.JPG)
+
+  ![pic 3](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture.JPG)
 
 
   ## ✋ Questions 
