@@ -15,52 +15,43 @@
   
   <ur>
   
-  ## 📋Table of Contents
-
-  [Installation](#installation)
-
-  [Usage](#usage)
-
-  [License](#license)
-
-  [Contributing](#contributing)
-
-  [Technologies used](#Technologies_used)
-  
-  [Questions](#questions)
-
-  
-  ## 💾Installation  
+  # 💾Installation  
   npm install, 
 
   <ur>
 
-  ## 💻 Usage  
+  # 💻 Usage  
     
 With this application the employee directory React allows users to look up employees by name and then filtering by email, phone number, name or Date of birth. An employee or manager would benefit greatly from being able to view non-sensitive data about other employees.
 
-  ## License 
-    This project is licensed with MIT.
+  # License 
+ This project is licensed with MIT.
 
   <ur>
 
-  ## 👪 Contributing  
+  # 👪 Contributing  
   Julian Pedraza
 
-  ## Technologies used:
+  # Technologies used:
   1. NodeJS (dependencies: Axios,react, react-dom,react scripts, web-vitals.)
   2. React
   3. Netlify
   
   
- ## Screenshots
-  
+ # Screenshots:
+
+ ## Scroll:
+
   ![pic 1](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture%201.JPG)
 
+  ## Search:
+
   ![pic 2](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture%202.JPG)
+
+  ## Sort:
 
   ![pic 3](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture.JPG)
 
 
-  ## ✋ Questions 
+  # ✋ Questions 
   Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian).
