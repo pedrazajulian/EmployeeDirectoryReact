@@ -40,11 +40,11 @@ With this application the employee directory React allows users to look up emplo
   
  # Screenshots:
 
- ## Scroll:
+ ## Search:
 
   ![pic 1](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture%201.JPG)
 
-  ## Search:
+  ## Scroll up and down:
 
   ![pic 2](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture%202.JPG)
 
